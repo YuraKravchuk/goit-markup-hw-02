@@ -44,6 +44,7 @@ body {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  color: var(--accent-color);
 }
 
 .section-title {
@@ -53,6 +54,7 @@ body {
   line-height: 1.11;
   text-transform: capitalize;
   text-align: center;
+  color: var(--accent-color);
 }
 
 .logo-white {
@@ -72,6 +74,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color: var(--accent-color);
 }
 .contact-info-add {
   font-style: normal;
@@ -110,6 +113,7 @@ body {
 .section-cards {
   background: var(--cloud-color);
   text-align: center;
+  color: var(--accent-color);
 }
 
 .card {
@@ -151,7 +155,8 @@ button:focus {
 }
 
 .portfolio-btn {
-  color: var(--cloud-color);
+  color: var(--logo-color);
+  background-color: var(--cloud-color);
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
