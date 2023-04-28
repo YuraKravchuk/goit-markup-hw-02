@@ -76,6 +76,9 @@ body {
   letter-spacing: 0.02em;
   color: var(--accent-color);
 }
+.menu-link {
+  color: var(--accent-color);
+}
 .contact-info-add {
   font-style: normal;
   color: var(--color-text);
@@ -163,6 +166,6 @@ button:focus {
   letter-spacing: 0.04em;
 }
 
-.logo-span-footer{
+.logo-span-footer {
   color: var(--cloud-color);
 }
